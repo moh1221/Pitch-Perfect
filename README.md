@@ -1,0 +1,2 @@
+## Pitch Perefect
+iPhone App will allow user to record their voice and will then modulate the recorded audio to sound like a Chipmunk and Darth Vader. This will also let the user speed up or slow down the rate of playback.
